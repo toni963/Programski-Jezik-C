@@ -1,0 +1,1 @@
+Korisnik unosi n (Koliko brojeva želi), te kod ispisuje randomizirane troznamenkaste brojeve n puta

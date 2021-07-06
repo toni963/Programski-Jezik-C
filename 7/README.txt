@@ -1,0 +1,1 @@
+Korisnik unosi bilo koji znak, te nakon toga unosi broj redova gdje kod onda isprinta taj znak u toliki broj redova gdje je svaki red = broj znakova

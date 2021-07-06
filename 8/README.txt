@@ -1,0 +1,1 @@
+Korisnik unosi donju i gornju granicu, te kod printa znakove u razlici donje od gornje granice u redke, u svaki redak ide znakova koliko je korisnik unijeo

@@ -1,0 +1,1 @@
+Korisnik unosi donju i gornju granicu, te kod printa sve parne brojeve između te dvije granice

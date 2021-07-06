@@ -1,0 +1,1 @@
+Korisnik unosi 10 znakova, te ih kod na kraju isprinta posložene po rednom broju od najmanjeg do najvećeg po ASCII tablici

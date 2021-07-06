@@ -1,0 +1,1 @@
+Kod koji učitava tekstualnu datoteku pod imenom "ime.txt", korisnik unosi znak i znak se pronalazi u datoteci

@@ -1,0 +1,1 @@
+Unose se željeni znakovi, te program isprinta ta 3 znaka u kocku gdje dijagonalno kroz sredinu ide 1. znak

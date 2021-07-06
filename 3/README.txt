@@ -1,0 +1,1 @@
+Korisnik unosi koliko želi imati stupaca i redova, te se kreiraju polja od stupaca i redova u koja unosi brojeve i na kraju se ispiše koji brojevi iz kojeg reda su Najmanji i Najveći
